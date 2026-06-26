@@ -53,6 +53,6 @@ Compared healthcare costs, recovery time, and patient outcomes using statistical
 
 ---
 
-### 🧪 REDCap Clinical Research Database
-Designed a longitudinal REDCap project with branching logic, calculated fields, and data validation.
+## 🏥 [REDCap Metabolic Health Study](https://github.com/bhumikapseudo/redcap-metabolic-health-study)
 
+Designed and implemented a longitudinal clinical research database in REDCap featuring electronic Case Report Forms (eCRFs), longitudinal event mapping, branching logic, calculated fields, and data validation.
