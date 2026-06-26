@@ -30,7 +30,7 @@ This portfolio showcases projects focused on healthcare analytics, business inte
 
 Interactive Tableau dashboard analyzing cancer incidence, mortality, survival rates, and demographic trends.
 
-[![Cancer Dashboard](Images/dashboard_overview.png)](https://github.com/bhumikapseudo/Cancer-Analytics-Dashboard)
+<img width="806" height="503" alt="image" src="https://github.com/user-attachments/assets/9260a8d0-7e1d-4ad4-889f-18bef4dafe65" />
 
 
 ---
