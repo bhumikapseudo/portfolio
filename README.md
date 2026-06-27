@@ -36,6 +36,7 @@ Interactive Tableau dashboard analyzing cancer incidence, mortality, survival ra
 ---
 
 ### 🏥 Hospital Operations Analytics (SQL + Tableau)
+
 Analyzed hospital admissions, readmissions, costs, and operational KPIs using SQL and Tableau.
 
 
@@ -43,9 +44,13 @@ Analyzed hospital admissions, readmissions, costs, and operational KPIs using SQ
 
 ### 💊 [Drug Review Sentiment Analysis using NLP](https://github.com/bhumikapseudo/drug-review-nlp-sentiment-analysis)
 
+Analyzed patient drug reviews using Natural Language Processing techniques to classify sentiment and generate healthcare insights from real-world patient feedback.
+
+
 ---
 
 ### 📊 Telehealth vs. In-Person Care Outcomes Analysis
+
 Compared healthcare costs, recovery time, and patient outcomes using statistical analysis.
 
 
