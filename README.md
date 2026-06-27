@@ -41,9 +41,7 @@ Analyzed hospital admissions, readmissions, costs, and operational KPIs using SQ
 
 ---
 
-### 💊 Drug Review Sentiment Analysis (Python & NLP)
-Applied Natural Language Processing techniques to evaluate patient sentiment and treatment effectiveness from drug reviews.
-
+### 💊 [Drug Review Sentiment Analysis using NLP](https://github.com/bhumikapseudo/drug-review-nlp-sentiment-analysis)
 
 ---
 
