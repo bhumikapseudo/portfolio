@@ -53,8 +53,6 @@ Analyzed patient drug reviews using Natural Language Processing techniques to cl
 
 Compared telehealth and traditional in-person care using Python, statistical analysis, and integrated healthcare datasets to evaluate recovery time, patient satisfaction, treatment costs, and healthcare outcomes.
 
-Compared healthcare costs, recovery time, patient outcomes, and treatment effectiveness using Python, statistical analysis, and data visualization.
-
 ---
 
 ## 🏥 [REDCap Metabolic Health Study](https://github.com/bhumikapseudo/redcap-metabolic-health-study)
