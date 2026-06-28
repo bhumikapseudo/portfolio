@@ -49,7 +49,7 @@ Analyzed patient drug reviews using Natural Language Processing techniques to cl
 
 ---
 
-### 📊 📊 **[Telehealth vs. In-Person Care Outcomes Analysis](https://github.com/bhumikapseudo/Telehealth-vs-InPerson-Care-Outcomes-Analysis)**
+### 📊 **[Telehealth vs. In-Person Care Outcomes Analysis](https://github.com/bhumikapseudo/Telehealth-vs-InPerson-Care-Outcomes-Analysis)**
 
 Compared healthcare costs, recovery time, patient satisfaction, and health outcomes using statistical analysis and Python.
 
