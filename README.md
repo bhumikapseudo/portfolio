@@ -1,6 +1,6 @@
 # Bhumika Saxena
 
-## Healthcare Data Analyst | Health Informatics Graduate | SQL | Tableau | Python
+## Healthcare Data Analyst | M.S. Health Informatics, Rutgers '26 (4.0 GPA) | SQL • Tableau • Python • REDCap
 
 Welcome to my Healthcare Data Analytics Portfolio.
 
