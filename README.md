@@ -35,7 +35,7 @@ Interactive Tableau dashboard analyzing cancer incidence, mortality, survival ra
 
 ---
 
-## [🏥 Hospital Operations Analytics (SQL + Tableau)](https://github.com/bhumikapseudo/hospital-operations-analytics)
+### [🏥 Hospital Operations Analytics (SQL + Tableau)](https://github.com/bhumikapseudo/hospital-operations-analytics)
 
 Analyzed hospital admissions, readmissions, costs, and operational KPIs using SQL and Tableau.
 
