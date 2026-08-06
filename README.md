@@ -55,6 +55,6 @@ Compared telehealth and traditional in-person care using Python, statistical ana
 
 ---
 
-## 🏥 [REDCap Metabolic Health Study](https://github.com/bhumikapseudo/redcap-metabolic-health-study)
+### 🏥 [REDCap Metabolic Health Study](https://github.com/bhumikapseudo/redcap-metabolic-health-study)
 
 Designed and implemented a longitudinal clinical research database in REDCap featuring electronic Case Report Forms (eCRFs), longitudinal event mapping, branching logic, calculated fields, and data validation.
