@@ -4,7 +4,7 @@
 
 Welcome to my Healthcare Data Analytics Portfolio.
 
-I am a Health Informatics graduate from Rutgers University with a clinical background as a dentist and over five years of healthcare experience. I am passionate about using data analytics to improve healthcare operations, support clinical decision-making, and solve real-world business problems.
+I am a Health Informatics graduate from Rutgers University with a clinical background as a dentist and over six years of healthcare experience. I am passionate about using data analytics to improve healthcare operations, support clinical decision-making, and solve real-world business problems.
 
 This portfolio showcases projects focused on healthcare analytics, business intelligence, predictive analytics, and clinical data management.
 
